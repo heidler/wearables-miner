@@ -8,8 +8,8 @@ Nositelná elektronika na kterou se aktuálně zaměřujeme a budeme se z ní sn
 |---|:---:|:---:|:---:|:---:|---|
 |Apple|:x:|:x:|:x:|:heavy_check_mark:||
 |Fitbit|:x:|:x:|:x:|:x:||
-|Garmin|:x:|:x:|:x:|:heavy_check_mark:|Garmin Connect (GDPR)|
-|Samsung|:x:|:x:|:x:|:heavy_check_mark:||
+|[Garmin](https://github.com/heidler/wearables-miner/wiki/Garmin)|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|Garmin Connect|
+|[Samsung](https://github.com/heidler/wearables-miner/wiki/Samsung)|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|Samsung Health|
 |Suunto|:x:|:x:|:x:|:x:||
 |Polar|:x:|:x:|:x:|:x:||
 |Xiaomi|:x:|:x:|:x:|:x:||
@@ -23,4 +23,3 @@ TO-DO
 
 ## Souhlas pro zpracování dat
 TO-DO
-
