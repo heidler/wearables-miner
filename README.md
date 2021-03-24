@@ -6,7 +6,7 @@ Nositelná elektronika na kterou se aktuálně zaměřujeme a budeme se z ní sn
 
 |Značka|Získání dat|Zpracování dat|Data|Rozpracováno|Export|
 |---|:---:|:---:|:---:|:---:|---|
-|Apple|:x:|:x:|:x:|:heavy_check_mark:||
+|[Apple](https://github.com/heidler/wearables-miner/wiki/Apple)|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|[Apple Health](https://www.apple.com/ios/health/)|
 |[Fitbit](https://github.com/heidler/wearables-miner/wiki/Fitbit)|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|[fitbit.com](https://www.fitbit.com/)|
 |[Garmin](https://github.com/heidler/wearables-miner/wiki/Garmin)|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|[Garmin Connect](https://connect.garmin.com/)|
 |[Samsung](https://github.com/heidler/wearables-miner/wiki/Samsung)|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|[Samsung Health](https://www.samsung.com/global/galaxy/apps/samsung-health/)|
