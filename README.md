@@ -2,7 +2,9 @@
 *"Jak získat a zpracovat data z nositelné elektroniky různých značek."*
 
 ## Podporované značky
-Nositelná elektronika na kterou se aktuálně zaměřujeme a budeme se z ní snažit získat hrubá data, která následně budou zpracována do ucelené databáze. Kliknutím na název značky budete odkázání na návod pro export dat ze zařízení.
+Nositelná elektronika na kterou se aktuálně zaměřujeme a budeme se z ní snažit získat hrubá data, která následně budou zpracována do ucelené databáze.
+
+*Kliknutím na název značky budete odkázání na návod pro export dat ze zařízení.*
 
 |Značka [export]|Získání dat|Zpracování dat|Data|Rozpracováno|Aplikace|
 |---|:---:|:---:|:---:|:---:|---|
