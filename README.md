@@ -20,8 +20,7 @@ Nositelná elektronika na kterou se aktuálně zaměřujeme a budeme se z ní sn
 
 Návod pro získání a zpracování dat je zpravidla pro novější modely náramků a chytrých hodinek, které synchronizují svá data s danou platformou (např. Garmin Connect, Samsung Health apod.). Data jsou zpravidla získána pomocí hromadného exportu ze zmíněných platforem (pomocí GDPR exportu).
 
-## Dotazník ke zpracování dat
-Dotazník ke sběru dat naleznete na tomto [odkazu](https://forms.gle/5CiBra3tn6dEkCWK6).
+## Dotazník ke zpracování a sběru dat
+Dotazník ke sběru dat naleznete na tomto [odkazu](https://forms.gle/5CiBra3tn6dEkCWK6). Jedna z otázek dotazníku Vás vyzve k nahrání Vašich exportovaných dat. Data nejdříve zazipujte (v případě, že zazipovaná nejsou) a následně nahrajte.
 
-## Sběr dat
-Po exportu dat ze zařízení a vyplnění dotazníku, zašlete data na email [josef.heidler@ujep.cz](mailto:josef.heidler@ujep.cz). Data nejdříve zazipujte (v případě, že zazipovaná nejsou) a soubor pojmenujte ve formátu PŘÍJMENÍ-Jméno (např. HEIDLER-Josef).
+*Pro vyplnění dotazníku je nutné použít Google účet.*
