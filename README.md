@@ -6,15 +6,15 @@ Nositelná elektronika na kterou se aktuálně zaměřujeme a budeme se z ní sn
 
 *Kliknutím na název značky budete odkázání na návod pro export dat ze zařízení.*
 
-|Značka [export]|Získání dat|Zpracování dat|Data|Rozpracováno|Aplikace|
-|---|:---:|:---:|:---:|:---:|---|
-|[Apple](https://github.com/heidler/wearables-miner/wiki/Apple)|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|[Apple Health](https://www.apple.com/ios/health/)|
-|[Fitbit](https://github.com/heidler/wearables-miner/wiki/Fitbit)|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|[fitbit.com](https://www.fitbit.com/)|
-|[Garmin](https://github.com/heidler/wearables-miner/wiki/Garmin)|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|[Garmin Connect](https://connect.garmin.com/)|
-|[Samsung](https://github.com/heidler/wearables-miner/wiki/Samsung)|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|[Samsung Health](https://www.samsung.com/global/galaxy/apps/samsung-health/)|
-|Suunto|:x:|:x:|:x:|:x:||
-|Polar|:x:|:x:|:x:|:x:||
-|Xiaomi|:x:|:x:|:x:|:x:||
+|Značka [export]|Získání dat|Zpracování dat|Data|Aplikace|
+|---|:---:|:---:|:---:|---|
+|[Apple](https://github.com/heidler/wearables-miner/wiki/Apple)|:heavy_check_mark:|:x:|:x:|[Apple Health](https://www.apple.com/ios/health/)|
+|[Fitbit](https://github.com/heidler/wearables-miner/wiki/Fitbit)|:heavy_check_mark:|:x:|:x:|[fitbit.com](https://www.fitbit.com/)|
+|[Garmin](https://github.com/heidler/wearables-miner/wiki/Garmin)|:heavy_check_mark:|:x:|:x:|[Garmin Connect](https://connect.garmin.com/)|
+|[Samsung](https://github.com/heidler/wearables-miner/wiki/Samsung)|:heavy_check_mark:|:x:|:x:|[Samsung Health](https://www.samsung.com/global/galaxy/apps/samsung-health/)|
+|Suunto|:x:|:x:|:x:||
+|Polar|:x:|:x:|:x:||
+|[Xiaomi](https://github.com/heidler/wearables-miner/wiki/Xiaomi)|:heavy_check_mark:|:x:|:x:|[Mi Fit]|
 
 *Do databáze lze začlenit i další značky nositelné elektroniky.*
 
