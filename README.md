@@ -14,7 +14,7 @@ Nositelná elektronika na kterou se aktuálně zaměřujeme a budeme se z ní sn
 |[Samsung](https://github.com/heidler/wearables-miner/wiki/Samsung)|:heavy_check_mark:|:x:|:x:|[Samsung Health](https://www.samsung.com/global/galaxy/apps/samsung-health/)|
 |Suunto|:x:|:x:|:x:||
 |Polar|:x:|:x:|:x:||
-|[Xiaomi](https://github.com/heidler/wearables-miner/wiki/Xiaomi)|:heavy_check_mark:|:x:|:x:|[Mi Fit]|
+|[Xiaomi](https://github.com/heidler/wearables-miner/wiki/Xiaomi)|:heavy_check_mark:|:x:|:x:|Mi Fit|
 
 *Do databáze lze začlenit i další značky nositelné elektroniky.*
 
